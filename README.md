@@ -1,4 +1,5 @@
 # Arduino Micro Game of Life
+![Arduino Funcionando](https://github.com/DieR-G/GameOfLife/blob/master/IMG_20200421_085607.jpg)
 Implementación del juego de la vida de Conway utilizando un Arduino micro
 y una pantalla de Nokia 5110
 ## Hardware utilizado
