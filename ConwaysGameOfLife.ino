@@ -9,7 +9,6 @@
 #endif
 #include <Arduino.h>
 #include <U8g2lib.h>
-
 const int cs_pin = 4;
 const int dc_pin = 3;
 const int rst_pin = 5;
